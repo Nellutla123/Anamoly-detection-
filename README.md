@@ -6,6 +6,6 @@ we are just analyzing and detecting the Anamoly i.e OUTLIERS in this specific da
 we are using three different techniques
 
 
-1.Local Outler Factor
-2.Isolation Forest
-3. One-Class SVM
+Local Outler Factor
+Isolation Forest
+One-Class SVM
