@@ -57,16 +57,6 @@ The models were evaluated using accuracy, precision, recall, and F1-score.
 | Isolation Forest     | 0.98     | 0.75      | 0.68   | 0.71     |
 | One-Class SVM        | 0.97     | 0.70      | 0.63   | 0.66     |
 
----
-
-### 📡 **2. ROC Curve Comparison**
-The models were compared using ROC-AUC to measure their effectiveness in detecting anomalies. 
-
-- LOF: Highest AUC with a well-balanced trade-off between false positives and false negatives.
-- IF: Moderate AUC, slightly lower performance than LOF.
-- OCSVM: Lower AUC due to the complexity of the decision boundary.
-
----
 
 ### 📈 **3. Visualizing Anomalies**
 Here’s an example visualization of anomalies detected using different models:
